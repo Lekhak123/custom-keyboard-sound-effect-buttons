@@ -2,7 +2,8 @@
 
 # STEPS: 
 
-- pip install -r requirements.txt
+- pip install -r requirements.txt 
+- pip install pygame==2.0.0.dev6 (if pygame doesn't get installed)
 - python main.py
 - [Click here](https://vb-audio.com/Cable/) to install virtual cable.
 
