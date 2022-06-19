@@ -4,7 +4,6 @@
 
 - pip install -r requirements.txt 
 - pip install pygame==2.0.0.dev6 (if pygame doesn't get installed)
-- python main.py
 - [Click here](https://vb-audio.com/Cable/) to install virtual cable.
 
 
@@ -25,4 +24,5 @@
 
 
 ###### Finally:
+- python main.py
 - Press num lock key (the program only works when num lock is on) after running the main.py file.
